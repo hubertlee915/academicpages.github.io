@@ -79,12 +79,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Zhiheng Li "
+  avatar           : "zhiheng_li_128.png"
+  bio              : "PhD student at URCS"
+  location         : "Rochester, NY"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    :
   email            :
   uri              :
   bitbucket        :
@@ -93,19 +93,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hubertlee915"
+  github           : "https://github.com/hubertlee915/"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5972-4826"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
