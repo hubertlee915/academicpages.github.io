@@ -3,7 +3,7 @@ title: "Lip Movements Generation at a Glance"
 collection: publications
 permalink:
 excerpt:
-date: 
+date: 2018-12-26
 venue:
 paperurl: 'http://openaccess.thecvf.com/content_ECCV_2018/papers/Lele_Chen_Lip_Movements_Generation_ECCV_2018_paper.pdf'
 citation:
